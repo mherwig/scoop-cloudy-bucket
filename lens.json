@@ -1,0 +1,34 @@
+{
+    "homepage": "https://k8slens.dev/",
+    "description": "Lens - The Kubernetes IDE https://k8slens.dev/",
+    "license": "MIT",
+    "version": "3.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lensapp/lens/releases/download/v3.4.0/Lens-Setup-3.4.0.exe",
+            "hash": "wAOgKQGGeyyrGy2pUu9lq7SpTtR4EBolpfTGaLCgkBaXxh6/3IxJa02Nlxv8Gv8ZVzbbRatiIxDyUZkXlYPJ1g=="
+        }
+    },
+    "bin": "Lens.exe",
+    "extract_dir": "$PLUGINSDIR\\app-64.7z",
+    "shortcuts": [
+        [
+            "Lens.exe",
+            "Lens"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/lensapp/lens"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/lensapp/lens/releases/download/v$version/Lens-Setup-$version.exe"
+            }
+        },
+        "hash": {
+            "url": "$baseurl/latest.yml",
+            "find": "sha512:\\s+([a-zA-Z0-9+\/=]{88})",
+        }
+    }
+}
