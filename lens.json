@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lensapp/lens/releases/download/v3.4.0/Lens-Setup-3.4.0.exe",
-            "hash": "sha512:wAOgKQGGeyyrGy2pUu9lq7SpTtR4EBolpfTGaLCgkBaXxh6/3IxJa02Nlxv8Gv8ZVzbbRatiIxDyUZkXlYPJ1g=="
+            "hash": "sha512:c003a02901867b2cab1b2da952ef65abb4a94ed478101a25a5f4c668b0a0901697c61ebfdc8c496b4d8d971bfc1aff195736db45ab622310f25199179583c9d6"
         }
     },
     "bin": "Lens.exe",
@@ -28,7 +28,7 @@
         },
         "hash": {
             "url": "$baseurl/latest.yml",
-            "find": "sha512:\\s+([a-zA-Z0-9+\/=]{88})"
+            "find": "sha512:\\s$base64"
         }
     }
 }
