@@ -28,7 +28,7 @@
         },
         "hash": {
             "url": "$baseurl/latest.yml",
-            "find": "sha512:\\s+([a-zA-Z0-9+\/=]{88})",
+            "find": "sha512:\\s+([a-zA-Z0-9+\/=]{88})"
         }
     }
 }
