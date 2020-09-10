@@ -12,6 +12,7 @@
     "bin": [
         "gomplate_windows-amd64.exe", 
         [
+          "gomplate_windows-amd64.exe",
           "gotemplate"
         ]
     ],
