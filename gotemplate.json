@@ -9,7 +9,12 @@
             "hash": "bac0a87fd613d7e335efa3fa6302dfb57f482cc0e6780537c65816e581de5415"
         }
     },
-    "bin": "gotemplate.exe",
+    "bin": [
+        "gomplate_windows-amd64.exe", 
+        [
+          "gotemplate.exe"
+        ]
+    ],
     "checkver": {
         "github": "https://github.com/hairyhenderson/gomplate"
     },
