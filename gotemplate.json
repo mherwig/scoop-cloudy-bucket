@@ -12,7 +12,7 @@
     "bin": [
         "gomplate_windows-amd64.exe", 
         [
-          "gotemplate.exe"
+          "gotemplate"
         ]
     ],
     "checkver": {
