@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/lensapp/lens/releases/download/v3.6.7/Lens-Setup-3.6.7.exe#/dl.7z",
-            "hash": "sha512:l0ogTYUIHBUnJWELfFa+ktbweAHXJTMw8T9an7F4+8+Zh10+VvgUBKz1XIyEzsXPKQfGPXH0lEv6a9Wy9QjtGg=="
+            "hash": "sha512:974a204d85081c152725610b7c56be92d6f07801d7253330f13f5a9fb178fbcf99875d3e56f81404acf55c8c84cec5cf2907c63d71f4944bfa6bd5b2f508ed1a"
         }
     },
     "pre_install": [
