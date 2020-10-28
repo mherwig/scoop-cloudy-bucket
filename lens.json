@@ -5,7 +5,7 @@
     "version": "3.6.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lensapp/lens/releases/download/v$version/Lens-Setup-$version.exe#/dl.7z",
+            "url": "https://github.com/lensapp/lens/releases/download/v3.6.7/Lens-Setup-3.6.7.exe#/dl.7z",
             "hash": "sha512:l0ogTYUIHBUnJWELfFa+ktbweAHXJTMw8T9an7F4+8+Zh10+VvgUBKz1XIyEzsXPKQfGPXH0lEv6a9Wy9QjtGg=="
         }
     },
