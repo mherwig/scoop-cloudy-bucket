@@ -2,11 +2,11 @@
     "homepage": "https://deck.yolo42.com/",
     "description": "decK: Configuration management and drift detection for Kong and Kong Enterprise",
     "license": "Apache-2.0",
-    "version": "1.1.0",
+    "version": "1.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hbagdi/deck/releases/download/v1.1.0/deck_1.1.0_windows_amd64.tar.gz",
-            "hash": "02dfb0dfcd9db81e5fbe097957a8ca22d6d670970ac26d1cb6a23f76f2169cda"
+            "url": "https://github.com/hbagdi/deck/releases/download/v1.2.2/deck_1.2.2_windows_amd64.tar.gz",
+            "hash": "91c3e17f3812a417d2f1c23c60ee01face780d2dd0881c9cf57ca7b35fcfcfcb"
         }
     },
     "bin": "deck.exe",
