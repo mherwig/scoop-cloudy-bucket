@@ -2,11 +2,11 @@
     "homepage": "https://k8slens.dev/",
     "description": "Lens - The Kubernetes IDE https://k8slens.dev/",
     "license": "MIT",
-    "version": "4.1.0",
+    "version": "4.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lensapp/lens/releases/download/v4.1.0/Lens-Setup-4.1.0.exe#/dl.7z",
-            "hash": "sha512:4633486503fb07bfa5febde8f4e1becee01991be35889f4fd35e7d9b424d5b28f41ff085e1ce5ea77699bac325d0a8650fc53ad1cbeab81f82606d17071aab08"
+            "url": "https://github.com/lensapp/lens/releases/download/v4.1.2/Lens-Setup-4.1.2.exe#/dl.7z",
+            "hash": "sha512:60aa650be384e24f44dd561740f66f286a0024ec2834a0a30127ccdd7e68c2860e63a32b5694d20129da56cbbe59022418e9c2c512b8ec85995ab713f33b8e6f"
         }
     },
     "pre_install": [
